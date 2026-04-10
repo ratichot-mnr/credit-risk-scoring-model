@@ -10,4 +10,4 @@ After obtaining the predictions, I converted them into Probability of Default (P
 
 Through this project, I gained a clearer understanding of how credit scoring works beyond just model building. It highlighted the importance of connecting data preparation, modeling, and practical business interpretation.
 
-This project was developed as part of a course, but I aimed to follow an approach similar to what is used in real-world credit risk modeling.
+#### This project was developed as part of a course, but I aimed to follow an approach similar to what is used in real-world credit risk modeling.
